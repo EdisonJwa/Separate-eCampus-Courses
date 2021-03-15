@@ -15,7 +15,6 @@
 // @match        https://ecampus.scnu.ac.kr/
 // @match        https://ecampus.pro.ac.kr/
 // @match        https://ecampus.halla.ac.kr/
-
 // @grant        none
 // ==/UserScript==
 
