@@ -18,4 +18,6 @@ Add some differences between Undergraduate and master courses
 ## eCampus-notices
 Relocate the notifications
 
-> Cause of personal informations, please try it yourself.
+
+![](/image2.png?raw=true)
+
