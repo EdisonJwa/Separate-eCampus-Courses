@@ -19,5 +19,3 @@ Add some differences between Undergraduate and master courses
 Relocate the notifications
 
 
-![](/image2.png?raw=true)
-
