@@ -10,6 +10,8 @@ Install the script:
 
 [eCampus-quiz](https://github.com/EdisonJwa/eCampus-scripts/raw/main/ecampus-quiz.user.js)
 
+[ecampus-new-tab](https://github.com/EdisonJwa/eCampus-scripts/raw/main/ecampus-new-tab.user.js)
+
 ## eCampus-cources
 Add some differences between Undergraduate and master courses
 
@@ -21,3 +23,6 @@ Relocate the notifications
 
 ## eCampus-quiz
 eCampus 퀴즈 Review 할 때 오답 부분 표시
+
+## eCampus-new-tab
+Open Course in new tab
