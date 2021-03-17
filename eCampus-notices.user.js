@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         eCampus 공지 위치 변경
 // @namespace    https://uv.uy/
-// @version      0.1
+// @version      0.2
 // @description  Relocate the notices
 // @author       Edison Jwa
 // @match        https://ecampus.kookmin.ac.kr/
@@ -27,7 +27,7 @@
             var smTop = window.innerHeight - ((notice.length - j) * 50) - 5 + 'px';
             nt.setProperty('top', smTop);
         } else {
-            var max = window.innerWidth - resizeNotice - ((j + 2) * 20) + 'px';
+            var max = window.innerWidth - resizeNotice - ((notice.length - j + 1) * 20) + 'px';
             nt.setProperty('left', max);
         }
     }
