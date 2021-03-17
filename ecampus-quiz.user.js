@@ -23,6 +23,8 @@
         if (scoreGot < scoreMax ){
             infoCard.setProperty('background-color', 'lavenderblush');
             answerTab.setProperty('background-color', 'lavenderblush');
+            answerTab.setProperty('border-color', 'indianred');
+            answerTab.setProperty('color', 'darkred');
             trafficlightColor.setProperty('background-color', 'palevioletred');
         }
     }
