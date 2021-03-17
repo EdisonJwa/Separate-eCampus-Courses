@@ -25,4 +25,4 @@ Relocate the notifications
 eCampus 퀴즈 Review 할 때 오답 부분 표시
 
 ## eCampus-new-tab
-Open Course in new tab
+Open Courses and attachments in new tab
