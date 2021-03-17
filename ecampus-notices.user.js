@@ -19,7 +19,7 @@
             nt.setProperty('min-width', 'auto');
             resizeNotice = 300;
         }
-        if (self.innerWidth <= 800 ){
+        if (self.innerWidth <= 1000 ){
             nt.setProperty('height', '50px');
             nt.setProperty('min-height', 'auto');
             var smMax = window.innerWidth - resizeNotice - 20 + 'px';
