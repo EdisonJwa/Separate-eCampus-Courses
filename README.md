@@ -6,8 +6,9 @@ Install the script:
 
 [eCampus-cources](https://github.com/EdisonJwa/eCampus-scripts/raw/main/ecampus-cources.user.js)
 
-[eCampus-notices](https://github.com/EdisonJwa/eCampus-scripts/raw/main/eCampus-notices.user.js)
+[eCampus-notices](https://github.com/EdisonJwa/eCampus-scripts/raw/main/ecampus-notices.user.js)
 
+[eCampus-quiz](https://github.com/EdisonJwa/eCampus-scripts/raw/main/ecampus-quiz.user.js)
 
 ## eCampus-cources
 Add some differences between Undergraduate and master courses
@@ -18,4 +19,5 @@ Add some differences between Undergraduate and master courses
 ## eCampus-notices
 Relocate the notifications
 
-
+## eCampus-quiz
+eCampus 퀴즈 Review 할 때 오답 부분 표시
